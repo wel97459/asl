@@ -1,0 +1,12 @@
+*.msg
+*.o
+*.rsc
+*.dep
+mkdepend
+rescomp
+plist
+pbind
+p2hex
+p2bin
+asl
+alink
